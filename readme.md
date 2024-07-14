@@ -22,8 +22,8 @@ This project implements an AI-based monitoring system for a Hydraulic Reservoir 
   - Python for script development
 
 ## Prototype Model and Circuit
-[Architecture](https://github.com/user-attachments/assets/2f4e8cce-1e44-41a9-b5e6-db82f0468679)
-[Circuit](https://github.com/user-attachments/assets/90fcf1b0-5b63-403a-ae17-5ea21938fe9d)
+![Architecture](https://github.com/user-attachments/assets/2f4e8cce-1e44-41a9-b5e6-db82f0468679)
+![Circuit](https://github.com/user-attachments/assets/90fcf1b0-5b63-403a-ae17-5ea21938fe9d)
 
 
 ## Methodology
